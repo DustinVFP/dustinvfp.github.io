@@ -1,5 +1,5 @@
 ﻿
-## Top
+# Top
 
 Hello whoever is viewing this page 
 
@@ -7,5 +7,5 @@ There is nothing here right now but this page in the future will probably be use
 
 ---Dustin
 
-## Links
+# Links
 [About Me](./aboutme)
