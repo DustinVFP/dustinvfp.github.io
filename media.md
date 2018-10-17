@@ -21,8 +21,8 @@ This is a list of all my social media sites, i will try and keep this at least s
  
 ---
  
- > \^ = Active  
- > \^^ = Online all the time/Very Active  
+ > ^ = Active  
+ > ^^ = Online all the time/Very Active  
  > \* = Inactive  
  > \** = Never posted in/Very Inactive  
 
