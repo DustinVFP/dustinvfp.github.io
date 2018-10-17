@@ -2,6 +2,8 @@
 
 This is a list of all my social media sites, i will try and keep this at least somewhat up to date (send me a message on twitter if you think this have gotten out of date) 
 
+some such as my amino are not listed because i don't know how to link to them
+
 ## Active 
 
 - Twitter : [@DustinVFP](https://twitter.com/dustinvfp) ^
