@@ -8,5 +8,5 @@ There is nothing here right now but this page in the future will probably be use
 ---Dustin
 
 # Links
-[About Me](./aboutme)
+[About Me](./aboutme)  
 [Media](./media)
