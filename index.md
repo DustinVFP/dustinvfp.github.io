@@ -9,3 +9,4 @@ There is nothing here right now but this page in the future will probably be use
 
 # Links
 [About Me](./aboutme)
+[Media](./media)
