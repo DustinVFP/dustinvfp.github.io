@@ -14,14 +14,14 @@ import "github.com/andersfylling/disgord"	// tells the build system that this fi
 func init() {
 
 	// ok so this block is everything needed to add a command
-  	
+	
 	cmdarray = append(cmdarray, (cmddata{ // this adds a command entry what follows below is all the info about the command
 	
 	// this is the function which basically contains all the logic and such to make a command work
 	cmdFunc:	func(args []string, session disgord.Session, data *disgord.MessageCreate) error {
 			var err error // you can ignore this (its needed but you don't need to mess with it at all)
-  		
-  			output := "Here is an example of a command" // this creates a variable which contains the text which we will send back on the next line
+		
+			output := "Here is an example of a command" // this creates a variable which contains the text which we will send back on the next line
 			data.Message.RespondString(session, output) // responds with the message
 			
 			return err // just like the above var err error thing you can ignore it
@@ -32,6 +32,8 @@ func init() {
 		cmdMinDesc:	"An Example command",		//smol description
 		cmdFullDesc:	"An example command for showing how commands are implemented", //big description
 		cmdFirstChr:	"e",				//first letter of the command
+		cmdModule:	"example",			//the module which the command exists in
+		
 	}))
 }
 ```
