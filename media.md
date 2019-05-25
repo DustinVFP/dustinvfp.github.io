@@ -7,7 +7,8 @@ some such as my amino are not listed because i don't know how to link to them
 ## Active 
 
 - Twitter : [@DustinVFP](https://twitter.com/dustinvfp) ^
-- Discord Server : [The Little Cave](https://discord.gg/CNCQ3vc) ^^ 
+- Discord Server : [The Little Cave](https://discord.gg/CNCQ3vc) \* (used to be active but has since died down)
+- Discord Art Server : [Artist's Cafe](https://discord.gg/fwp8HnX) ^^
 
 ## Inactive 
 
@@ -15,7 +16,7 @@ some such as my amino are not listed because i don't know how to link to them
 - DeviantArt : [DustinVFP](https://Dustinvfp.deviantart.com) *
 - NewGrounds : [DustinVFP](https://Dustinvfp.newgrounds.com) *
 - Reddit : [u/Dustinvfox](https://www.reddit.com/user/dustinvfox) *
-- Github : [@DustinVFP](https://github.com/dustinvfp) *
+- Github : [@DustyVF](https://github.com/dustyvf) *
 - Steemit : [@DustinVF](https://steemit.com/@dustinvf) **
 - D.Tube : [@DustinVF](https://d.tube/#!/c/dustinvf) **
 - Facebook : i don't have and probably never will have
